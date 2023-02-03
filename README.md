@@ -3,7 +3,7 @@ My skills coding in C, C++, C#, Python, PLC languages as Ladder,
 SCL, Grafcet. 
  
 - 👀 I’m interested in Robotics, Domotics and Industrial Automation 
-- 🌱 I’m currently learning ROS2 
+- 🌱 I’m currently working on programming of palletizing robots, learning ROS2
 - 💞️ I’m looking to collaborate on Robotics projects 
 - 📫 How to reach me kevin.ejem18@gmail.com
 
